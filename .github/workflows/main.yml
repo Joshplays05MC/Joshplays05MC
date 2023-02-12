@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Joshplays05
+          user: Joshplays05MC
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: GMT
